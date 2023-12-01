@@ -1,12 +1,10 @@
 
-public class mainGame
+public class creature
 {
 
 	public static void main(String[] args)
 	{
 		// TODO Auto-generated method stub
-		System.out.println("Hello and welcome to the game!");
-		
 
 	}
 
