@@ -1,5 +1,5 @@
 
-public class flameType
+public class flameType extends creature
 {
 
 	public static void main(String[] args)

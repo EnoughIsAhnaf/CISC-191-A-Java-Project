@@ -2,10 +2,14 @@
 public class creature
 {
 
-	public static void main(String[] args)
-	{
-		// TODO Auto-generated method stub
-
+	String creatureName;
+	String type;
+	int health;
+	
+	public static void basicAttack() {
+		System.out.println(this.creatureName + " used Tackle!");
+		System.out.println("It wasn't that effective.");
 	}
 
+	
 }

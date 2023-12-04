@@ -1,5 +1,5 @@
 
-public class splashtType
+public class splashtType extends creature
 {
 
 	public static void main(String[] args)

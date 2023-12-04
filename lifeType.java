@@ -1,5 +1,5 @@
 
-public class lifeType
+public class lifeType extends creature
 {
 
 	public static void main(String[] args)
